@@ -1,4 +1,4 @@
-# IAAI
+# IAAI ton smart contracts
 
 ## Project structure
 
